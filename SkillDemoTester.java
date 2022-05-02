@@ -6,7 +6,7 @@ public class SkillDemoTester {
     
     @Test
     public void helloTest(){
-        assertEquals("hello world", SkillDemo.hello());
+        assertEquals("hello", SkillDemo.hello());
     }
 
 }
